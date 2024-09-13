@@ -1,0 +1,7 @@
+#A00488698
+Public int division (int a, int b) {
+if(b!=0)
+       return a/b;
+else
+       return "Division by zero is not allowed.";
+}
