@@ -1,0 +1,3 @@
+void Modulo(int i, int j){
+  cout<<i%j;
+}
