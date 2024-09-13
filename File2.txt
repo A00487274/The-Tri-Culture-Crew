@@ -1,0 +1,5 @@
+
+#A00488636
+list1 = [1,2,3,4]
+list2 = [5,4,2,1]
+print = (min(list2) - max(list1))

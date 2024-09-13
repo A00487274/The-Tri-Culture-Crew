@@ -1,0 +1,4 @@
+
+#A00488636
+import math
+print(pow(4, 3) - math.pow(4,3))
