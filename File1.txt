@@ -1,3 +1,0 @@
-void Subtraction(int i, int j){
-  cout<<i-j;
-}
