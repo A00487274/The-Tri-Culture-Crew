@@ -1,0 +1,3 @@
+void average(int i, int j){
+  cout<<(i+j)/2;
+}
