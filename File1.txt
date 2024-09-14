@@ -7,3 +7,8 @@ Public int addition (int a, int b) {
 Void Subtraction(int i,int j){
   cout<<i-j;
 }
+
+#A00488636
+x = 5
+y = 6
+print(x*y)
