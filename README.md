@@ -6,23 +6,21 @@ My name is Yaxuan Zhang, also can call me Sarah Zhang, and my Anumber is A004886
 <p>File2.txt is to calculate the division of two numbers. If the divisor is zero, the program will return a warning.</p>
 <p>File3.txt is to determine which number is the maximum between two numbers.</p>
 
-File1.txt is to calculate the sum of two numbers.
-File2.txt is to calculate the division of two numbers. If the divisor is zero, the program will return a warning.
-File3.txt is to determine which number is the maximum between two numbers.
-
 ## Student 2 - Sriram Ramesh A00487274
 
-Hello I am Sriram and Im learning about git and github as part of the softwareDev course! Its going fun so far and
-im waiting for it to get more challenging!
+<p>Hello I am Sriram and Im learning about git and github as part of the softwareDev course! Its going fun so far and
+im waiting for it to get more challenging!</p>
 
-##Student 2 Features 
+## Student 2 Features 
 
-File1.txt is to calculate the Difference of two numbers.
-File2.txt is to calculate the Modulus of two numbers.
-File3.txt is to determine the average of two numbers.
+<p>File1.txt is to calculate the Difference of two numbers.</p>
+<p>File2.txt is to calculate the Modulus of two numbers.</p>
+<p>File3.txt is to determine the average of two numbers.</p>
+
 ## Student 3 name and A number
-My name is Anuja Dinuwara Gamage and my A number of A00488636
+<p>My name is Anuja Dinuwara Gamage and my A number of A00488636</p>
+
 ## Student 3 Features
-File1.txt is to multiply two numbers.
-File2.txt is subtract the minmum from the maximum of a list
-File3.txt is to find the differnce in the Pow and Math.Pow function
+<p>File1.txt is to multiply two numbers.</p>
+<p>File2.txt is subtract the minmum from the maximum of a list</p>
+<p>File3.txt is to find the differnce in the Pow and Math.Pow function</p>
