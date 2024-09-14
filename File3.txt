@@ -2,11 +2,14 @@
 void average(int i, int j){
   cout<<(i+j)/2;
 
-
 #A00488698
 Public int max (int a, int b) {
 if (a > b) 
         return a;
 else 
         return b;
+
+//A00487274
+Void average(int i,int j){
+cout<<(i+j)/2;
 }

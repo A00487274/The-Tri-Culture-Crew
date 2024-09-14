@@ -10,3 +10,8 @@ if(b!=0)
 else
        return "Division by zero is not allowed.";
 }
+
+//A00487274
+Void Modulo(int i,int j){
+  cout<<i%j;
+}
